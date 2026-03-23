@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Voice Cloning
 
 This repository is an implementation of [Transfer Learning from Speaker Verification to
@@ -62,3 +63,6 @@ Pretrained models are now downloaded automatically. If this doesn't work for you
 ### (Optional) Download Datasets
 
 For playing with the toolbox alone, I only recommend downloading [`LibriSpeech/train-clean-100`](https://www.openslr.org/resources/12/train-clean-100.tar.gz). Extract the contents as `<datasets_root>/LibriSpeech/train-clean-100` where `<datasets_root>` is a directory of your choosing. Other datasets are supported in the toolbox, see [here](https://github.com/CorentinJ/Real-Time-Voice-Cloning/wiki/Training#datasets). You're free not to download any dataset, but then you will need your own data as audio files or you will have to record it with the toolbox.
+=======
+# real_time_voice_cloning
+>>>>>>> 96dd5d0e0958db2f39307929b1c85d8016d4ce2e
